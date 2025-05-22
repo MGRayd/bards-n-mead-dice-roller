@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bards-n-mead-dice-roller/static/css/main.00508217.css",
+    "main.js": "/bards-n-mead-dice-roller/static/js/main.5bf7fa0b.js",
+    "static/js/453.fd3f84a8.chunk.js": "/bards-n-mead-dice-roller/static/js/453.fd3f84a8.chunk.js",
+    "index.html": "/bards-n-mead-dice-roller/index.html",
+    "main.00508217.css.map": "/bards-n-mead-dice-roller/static/css/main.00508217.css.map",
+    "main.5bf7fa0b.js.map": "/bards-n-mead-dice-roller/static/js/main.5bf7fa0b.js.map",
+    "453.fd3f84a8.chunk.js.map": "/bards-n-mead-dice-roller/static/js/453.fd3f84a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00508217.css",
+    "static/js/main.5bf7fa0b.js"
+  ]
+}
