@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <img
-        src="/bards-n-mead-logo.png"
+        src={`${process.env.PUBLIC_URL}/bards-n-mead-logo.png`}
         alt="Bards 'n Mead Logo"
         className="logo-image"
       />
